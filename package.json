@@ -1,0 +1,9 @@
+{
+  "name": "blinkstick-infra-monitor-server",
+  "version": "0.0.1",
+  "description": "The server component of blinkstick-infra-monitor",
+  "main": "src/index.js",
+  "repository": "https://github.com/agiledigital/blinkstick-infra-monitor-server",
+  "author": "Sean Dawson <spdawson@agiledigital.com.au>",
+  "license": "MIT"
+}
